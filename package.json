@@ -1,0 +1,19 @@
+{
+  "name": "hourglass",
+  "version": "1.0.0",
+  "description": "Hourglass is a utility that logs properties of thecurrently focused X window for easy analysis later. Ever wonder where all your time went? Use hourglass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregory-nisbet/hourglass"
+  },
+  "author": "Gregory Nisbet, Jessica Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregory-nisbet/hourglass/issues"
+  },
+  "homepage": "https://github.com/gregory-nisbet/hourglass"
+}
